@@ -11,4 +11,4 @@ public class GASearch {
 					+ "  || f(x) = " + p.pop.get(0).obj);
 		}
 	}
-}
+} 
