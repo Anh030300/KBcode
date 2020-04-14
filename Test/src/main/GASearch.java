@@ -10,5 +10,5 @@ public class GASearch {
 			System.out.println("Vong lap " + i + ": Gia tri indi tot nhat x = "+ p.pop.get(0).value 
 					+ "  || f(x) = " + p.pop.get(0).obj);
 		}
-	}
-}
+	  }
+} 
